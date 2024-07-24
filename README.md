@@ -39,15 +39,27 @@ Day 15: Linked List
 Day 16: Exceptions - String to Integer
 <br>
 Day 17: More Exceptions
+<br>
 Day 18: Queues and Stacks
+<br>
 Day 19: Interfaces
+<br>
 Day 20: Sorting
+<br>
 Day 21: Generics
+<br>
 Day 22: Binary Search Trees
+<br>
 Day 23: BST Level-Order Traversal
+<br>
 Day 24: More Linked Lists
+<br>
 Day 25: Running Time and Complexity
+<br>
 Day 26: Nested Logic
+<br>
 Day 27: Testing
+<br>
 Day 28: RegEx, Patterns, and Intro to Databases
+<br>
 Day 29: Bitwise AND
